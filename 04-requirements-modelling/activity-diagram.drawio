@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ywnwVc1QNjT4O3Pkl4-F">
+    <mxGraphModel dx="2038" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;College Equipment Booking System — Create Booking&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="230" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-48" edge="1" parent="1" source="j_nCItlrFPpysLf_iMhZ-81" style="endArrow=classic;html=1;rounded=0;exitX=0.44;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="210" as="sourcePoint" />
+            <mxPoint x="362" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Select Equipment" vertex="1">
+          <mxGeometry height="60" width="290" x="230" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Select Date" vertex="1">
+          <mxGeometry height="60" width="290" x="230" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-52" edge="1" parent="1" source="j_nCItlrFPpysLf_iMhZ-49" style="endArrow=classic;html=1;rounded=0;exitX=0.455;exitY=1.017;exitDx=0;exitDy=0;entryX=0.462;entryY=0.05;entryDx=0;entryDy=0;" target="j_nCItlrFPpysLf_iMhZ-50" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Check Availability" vertex="1">
+          <mxGeometry height="60" width="290" x="230" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-54" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.445;entryY=-0.05;entryDx=0;entryDy=0;" target="j_nCItlrFPpysLf_iMhZ-53" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-56" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="450" as="sourcePoint" />
+            <mxPoint x="360" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-62" edge="1" parent="1" source="j_nCItlrFPpysLf_iMhZ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j_nCItlrFPpysLf_iMhZ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-59" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="314" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-61" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;div&gt;UNKNOWN&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What should happen when the requested equipment is unavailable&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;?&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Ask: Equipment manager&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="550" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-64" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;Is the Equipment Available?&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="430" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[Not Available]" vertex="1">
+          <mxGeometry height="30" width="110" x="410" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-69" edge="1" parent="1" source="j_nCItlrFPpysLf_iMhZ-59" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="690" as="sourcePoint" />
+            <mxPoint x="364" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Enter Booking Details" vertex="1">
+          <mxGeometry height="60" width="310" x="220" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[Avaliable]" vertex="1">
+          <mxGeometry height="30" width="60" x="384" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-74" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="690" as="sourcePoint" />
+            <mxPoint x="360" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Submit Booking" vertex="1">
+          <mxGeometry height="60" width="310" x="220" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-76" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="800" as="sourcePoint" />
+            <mxPoint x="360" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Booking Recoreded" vertex="1">
+          <mxGeometry height="60" width="320" x="220" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-78" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="900" as="sourcePoint" />
+            <mxPoint x="360" y="925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-82" edge="1" parent="1" source="j_nCItlrFPpysLf_iMhZ-39" style="endArrow=classic;html=1;rounded=0;exitX=0.44;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" target="j_nCItlrFPpysLf_iMhZ-81" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="362" y="118" as="sourcePoint" />
+            <mxPoint x="362" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-81" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="359" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-84" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="349" y="920" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
