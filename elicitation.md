@@ -1,5 +1,5 @@
 # Week 2 — Stakeholders and Elicitation
-Scenario: College Equipment Booking System
+Scenario: College Equipment Booking System (worked example)
 
 ## 1. Stakeholders
 | Stakeholder | Role | Direct user? |
@@ -52,4 +52,7 @@ Completed individually – I missed this practical, so no role-play interview wa
 ## 8. Candidate requirement
 The system shall record the expected return date for each booking.
 
+---
 
+## My Project — Scenario B
+See the `project/` folder: `project/1-problem-stakeholders.md`.
