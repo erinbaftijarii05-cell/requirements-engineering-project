@@ -72,5 +72,5 @@ Scenario: College Equipment Booking System (worked example)
 - Rewrite: Only signed-in college users shall be able to make bookings, and only equipment technicians shall be able to mark an item as returned.
 
 ## 9. Reflection
-- I wanted to jump straight to a solution (an app), but listing the unknowns first showed how much we don't know yet, like who can book specialist equipment and what happens with late returns.
-- Vague words like "easy" and "secure" sound fine but can't be tested until you ask who, what and how.
+- I wanted to jump straight to a solutionbut listing the unknowns first showed how much we don't know yet, and would like who can book specialist equipment and what happens with late returns
+-words like "easy" and "secure" sound fine but can't be tested until you ask wh
