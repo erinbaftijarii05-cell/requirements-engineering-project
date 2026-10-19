@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ywnwVc1QNjT4O3Pkl4-F">
+    <mxGraphModel dx="976" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-86" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Student" vertex="1">
+          <mxGeometry height="56" width="140" x="60" y="130" as="geometry">
+            <mxRectangle height="30" width="80" x="90" y="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-95" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Booking" vertex="1">
+          <mxGeometry height="104" width="140" x="300" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-96" parent="j_nCItlrFPpysLf_iMhZ-95" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="StartDate" vertex="1">
+          <mxGeometry height="26" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-97" parent="j_nCItlrFPpysLf_iMhZ-95" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="EndDate" vertex="1">
+          <mxGeometry height="26" width="140" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-98" parent="j_nCItlrFPpysLf_iMhZ-95" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Status (Candidate)" vertex="1">
+          <mxGeometry height="26" width="140" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-104" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Equipment" vertex="1">
+          <mxGeometry height="56" width="140" x="570" y="130" as="geometry">
+            <mxRectangle height="30" width="80" x="90" y="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-105" edge="1" parent="1" source="j_nCItlrFPpysLf_iMhZ-86" style="endArrow=none;html=1;rounded=0;entryX=0.01;entryY=0.09;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="j_nCItlrFPpysLf_iMhZ-96" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="160" as="sourcePoint" />
+            <mxPoint x="250" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-106" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j_nCItlrFPpysLf_iMhZ-104" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="160" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Makes&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Identifies&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-110" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Staff Memeber" vertex="1">
+          <mxGeometry height="56" width="140" x="310" y="400" as="geometry">
+            <mxRectangle height="30" width="80" x="90" y="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-111" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="j_nCItlrFPpysLf_iMhZ-104" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="430" as="sourcePoint" />
+            <mxPoint x="500" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-112" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.504;entryY=1.149;entryDx=0;entryDy=0;entryPerimeter=0;" target="j_nCItlrFPpysLf_iMhZ-98" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="400" as="sourcePoint" />
+            <mxPoint x="420" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reviews&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ManagesAvailability of&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="520" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-117" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;OPEN QUESTIONS&amp;nbsp;&lt;/div&gt;&lt;div&gt;1. Is each booking for exactly one&lt;/div&gt;&lt;div&gt;student? Can a student have zero?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Is one staff member assigned to&lt;/div&gt;&lt;div&gt;review a booking, or several?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Can several staff manage the&lt;/div&gt;&lt;div&gt;same equipment?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. How is approve/reject stored? (FR06)&lt;/div&gt;&lt;div&gt;Only FR02&#39;s multiplicity is confirmed&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="50" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="j_nCItlrFPpysLf_iMhZ-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="167" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
