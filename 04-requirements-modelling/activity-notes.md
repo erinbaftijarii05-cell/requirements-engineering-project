@@ -12,7 +12,7 @@ Requirement: The system shall allow an authorised user to view equipment availab
   2. Search for equipment
   3. View the availability list
 - Unknown: Should unavailable equipment be shown (marked as booked) or hidden?
-
+   
 ## 1. Process Modelled
 Create Equipment Booking (from the Create Booking use case).
 
