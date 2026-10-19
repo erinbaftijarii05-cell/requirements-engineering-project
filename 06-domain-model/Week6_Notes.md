@@ -1,5 +1,4 @@
 # Week 6 — Conceptual Class Diagrams
-(Lab asks for Week6_Notes.docx — paste this into Word and save as .docx)
 
 ## Task A1
 1. FR01 and FR02 show that Booking is an important concept.
@@ -74,5 +73,4 @@ The use case diagram has no Staff Member reviewing bookings, but FR04 says staff
 3. One Workshop can have **0..*** Registration records.
 4. Each Registration is for **1** Workshop.
 
-## Part H — Scenario B project draft
-See `Project_Domain_Draft.drawio` and the `project/3-models/` folder.
+
