@@ -38,13 +38,8 @@ What should happen when the requested equipment is unavailable?
 ## 6. Stakeholder Question
 Ask the equipment manager: "If the equipment someone wants is unavailable, should they just be told, be offered another item, or be added to a waiting list?"
 
-## 7. Modelling Decision
-I did not add a waiting list or an alternative-equipment step, because nothing in the case supports them. The unavailable path ends in a question instead of an invented rule.
-
 ## 8. Reflection
 Drawing the decision point showed that the case says nothing about what happens when equipment is unavailable, which is a missing requirement.
 
----
 
-## Project process plan — Scenario B
-See the `project/3-models/` folder.
+
