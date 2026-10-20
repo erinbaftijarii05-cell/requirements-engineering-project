@@ -25,12 +25,12 @@
 ## 3. Quality Requirements
 | ID     | Requirement                                    | Type          |Priority| Source          | Why             | How to test           |
 |--------|------------------------------------------------|---------------|--------|-----------------|-----------------|-----------------------|
-| NFR-1  | Users shall log in first.                      | Security      | Must   | Data protection | Keep others out | Try without login     |
-| NFR-2  | Students shall only see their own bookings.    | Privacy       | Must   | Student         | Keep it private | Try another student's |
-| NFR-3  | Staff shall only see their own service.        | Privacy       | Must   | Data protection | Keep it private | Try another service   |
-| NFR-4  | Passwords shall be hidden.                     | Security      | Must   | Data protection | Stop leaks      | Check database        |
-| NFR-5  | Every box shall have a label.                  | Accessibility | Should | Student         | Easy for all    | Check each box        |
-| NFR-6  |  Booking shall take under 3 minutes.           | Usability     | Should | Student         | Easy to use     | Time 5 students       |
+| NFR-1  | Users shall log in first                       | Security      | Must   | Data protection | Keep others out | Try without login     |
+| NFR-2  | Students shall only see their own bookings     | Privacy       | Must   | Student         | Keep it private | Try another student's |
+| NFR-3  | Staff shall only see their own service         | Privacy       | Must   | Data protection | Keep it private | Try another service   |
+| NFR-4  | Passwords shall be hidden                      | Security      | Must   | Data protection | Stop leaks      | Check database        |
+| NFR-5  | Every box shall have a label                   | Accessibility | Should | Student         | Easy for all    | Check each box        |
+| NFR-6  | Booking shall take under 3 minutes             | Usability     | Should | Student         | Easy to use     | Time 5 students       |
 
 
 
