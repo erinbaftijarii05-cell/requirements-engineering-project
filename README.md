@@ -10,5 +10,9 @@ Requirements Engineering
 Week 6 — Classwork Labs 1–6 complete; project started
 
 
-- **Classwork** – folders `01`–`06` – Labs 1–6 using the College Equipment Booking worked example (Lab 5 is in `04`)
+- **Classwork** – folders 01–6 – Labs 1–6 using the College Equipment Booking worked example (Lab 5 is in 4)
 - **Project** – `project/` – Scenario B: College Student Support Appointment System
+- ## Project Files
+- 1-problem-stakeholders.md – problem, stakeholders, goals
+- 2-requirements-catalogue.md` – requirements
+
