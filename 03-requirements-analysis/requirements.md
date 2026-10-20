@@ -1,5 +1,5 @@
 # Week 3 — Requirements Analysis and Specification
-Scenario: College Equipment Booking System (worked example)
+Scenario: College Equipment Booking System 
 
 ## 1. Information from Week 2
 - Technicians need to know what equipment is due back.
@@ -53,8 +53,7 @@ Scenario: College Equipment Booking System (worked example)
 |---|---|---|---|
 | NFR-01 | Only users signed in with a college account shall be able to create a booking. | Every loan must be traceable to a person (accountability) | Try to book while signed out; the booking is refused |
 
-## 6. Project Application — Scenario B
-See the `project/` folder: `project/2-requirements-catalogue.md`.
+
 
 ## 7. Reflection
 1. **What makes a requirement difficult to understand?** Vague words ("user-friendly", "efficiently"), not saying who is involved, and putting several requirements into one statement.
