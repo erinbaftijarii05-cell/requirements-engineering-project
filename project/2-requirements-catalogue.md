@@ -32,7 +32,16 @@
 | NFR-5  | Every box shall have a label                   | Accessibility | Should | Student         | Easy for all    | Check each box        |
 | NFR-6  | Booking shall take under 3 minutes             | Usability     | Should | Student         | Easy to use     | Time 5 students       |
 
+## 4. Review
+| What I wrote first    | What was wrong       | Changed to     |
+|-----------------------|----------------------|----------------|
+| Easy to use           | No way to check it   | NFR-06         |
+| Secure                | Didn't say how       | NFR-01  NFR-04 |
+| Staff manage bookings | Didn't say what      | FR-08 to FR-10 |
 
-
+## 5. Still Need to Find Out
+* How late can a student cancel (FR-05)
+* What do staff do if a student does not  turn up(FR-10)
+* Is 3 minutes enough time to book? ((NNFR-06)
 
 
