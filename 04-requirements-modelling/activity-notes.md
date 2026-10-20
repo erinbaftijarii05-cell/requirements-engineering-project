@@ -29,8 +29,8 @@ To show what happens, step by step, when a user books equipment, and to find any
 
 ## 4. Decision and Guards
 - Decision: Is equipment available?
-- Guards: `[available]` → continue to Enter Booking Details
-- `[not available]` → UNKNOWN (see below)
+- Guards: available → continue to Enter Booking Details
+- not available → UNKNOWN (see below)
 
 ## 5. Unknowns
 What should happen when the requested equipment is unavailable?
