@@ -14,5 +14,7 @@ Week 6 — Classwork Labs 1–6 complete; project started
 - **Project** – project – Scenario B: College Student Support Appointment System
 - ## Project Files
 - 1-problem-stakeholders.md – problem, stakeholders, goals
-- 2-requirements-catalogue.md` – requirements
+- 2-requirements-catalogue.md – requirements
+- 3-models.md – diagrams and use case
+  
 
