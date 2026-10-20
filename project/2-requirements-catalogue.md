@@ -16,3 +16,11 @@
 
 
 
+## 2. Business Requirements
+| ID    | Requirement                                                | Type     |Priority | Source          | Why                    | How to test    |
+|-------|------------------------------------------------------------|----------|---------|-----------------|------------------------|----------------|
+| BR-01 | The system shall only save name, student number and email. | Business | Must    | Data protection |only keep what is needed| Check database |
+
+
+
+
