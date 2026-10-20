@@ -33,7 +33,7 @@ The system should help the college to
 - keep student info safe
 - booking must be easy and straight forward to do
 
-- ## 5. Scope
+  ## 5. Scope
 * In scope:
 - seeing the services
 - seeing free appointments
