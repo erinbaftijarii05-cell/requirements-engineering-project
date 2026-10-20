@@ -42,9 +42,6 @@ Second diagram (FR-02, Create Booking only):
 - Can lecturers book equipment, and if so, do they get priority?
 - Does the technician take part in Create Booking (e.g. approval)?
 
-## Project model — Scenario B
-See the `project/3-models/` folder.
-
 ## Reflection
 - **What the diagram helped me understand:** it shows the system boundary clearly. Things like buying or repairing equipment are outside it.
 - **Question it revealed:** "authorised user" in FR-01 doesn't say which roles, so it's unclear whether lecturers should be an actor.
