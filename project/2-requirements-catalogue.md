@@ -26,7 +26,7 @@
 | ID     | Requirement                                    | Type          |Priority| Source          | Why             | How to test           |
 |--------|------------------------------------------------|---------------|--------|-----------------|-----------------|-----------------------|
 | NFR-1  | Users shall log in first                       | Security      | Must   | Data protection | Keep others out | Try without login     |
-| NFR-2  | Students shall only see their own bookings     | Privacy       | Must   | Student         | Keep it private | Try another student's |
+| NFR-2  | Students shall only see their own bookings     | Privacy       | Must   | Student         | Keep it private | Try another studenyts |
 | NFR-3  | Staff shall only see their own service         | Privacy       | Must   | Data protection | Keep it private | Try another service   |
 | NFR-4  | Passwords shall be hidden                      | Security      | Must   | Data protection | Stop leaks      | Check database        |
 | NFR-5  | Every box shall have a label                   | Accessibility | Should | Student         | Easy for all    | Check each box        |
