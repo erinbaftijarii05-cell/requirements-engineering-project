@@ -1,5 +1,5 @@
 # Week 5 — Activity Diagram
-Scenario: College Equipment Booking System (worked example)
+Scenario: College Equipment Booking System 
 
 ![Activity diagram](activity-diagram.png)
 
