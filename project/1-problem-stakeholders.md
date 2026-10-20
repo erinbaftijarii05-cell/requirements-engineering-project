@@ -1,17 +1,17 @@
 # 1.Problem and Stakeholders
 
 ## 1. Current Situation
-* The college has support services like academic support, careers and learning support.
-* Students email or phone to get an appointment.
-* Staff keep track of appointments using calendars and spreadsheets.
+* The college has support services like academic support, careers and learning support
+* Students email or phone to get an appointment
+* Staff keep track of appointments using calendars and spreadsheets
 
  ## 2. Facts
-* Students may not know when there is a free appointment.
-* Staff spend a lot of time booking appointments by hand.
-* Cancelling or changing an appointment is hard.
+* Students may not know when there is a free appointment
+* Staff spend a lot of time booking appointments by hand
+* Cancelling or changing an appointment is hard
 * Staff have different free times and different types of appointments.
-* Student information must be kept safe.
-* The system needs to be easy for everyone to use.
+* Student information must be kept safee
+* The system needs to be easy for everyone to use
 
  ## 3. Stakeholders
 | Stakeholder                | What they need                         | What worries them               | Uses the system? |
@@ -26,7 +26,7 @@
 * Students might want to cancel last minute but staff wouldn't want that because the slot gets wasted  and makes everyone wait longer
 
 ## 4. Goals
-The system should help the college to:
+The system should help the college to
 - show students where they need to go
 - show when appointments are free
 - save staff time
@@ -47,22 +47,22 @@ Out of scope:
 - Admin staff booking for students – students book for themselves
 
 - ## 6. Assumptions
-* Every student has a college login.
+* Every student has a college login
 * One student and one staff member per appointment.
-* Each service picks its own appointmentk.
+* Each service picks its own appointmentk
 
 ## 7. Unknowns
 | What I don't know                          | Who I'd ask      |
 |--------------------------------------------|------------------|
 | Who's allowed to book?                     | Services manager |
 | How late can you cancel?                   | Support staff    |
-| What happens if a student doesn't show up? | Support staff    |  
+| What happens if a student doesn't show up  | Support staff    |  
 | Who can see the appointment details?       | Data protection  |
 
 ## 8. Need to Find Out More
-* What the "other services" are and do .
-* How many bookings there available at once .
-* If the college already has a system we have to use.
+* What the "other services" are and do 
+* How many bookings there available at once 
+* If the college already has a system we have to use
 * how long students wait for booking
 * how many students there are using and booking appoitmenets
 
