@@ -1,5 +1,5 @@
 # Week 1 — Initial Discovery
-Scenario: College Equipment Booking System (worked example)
+Scenario: College Equipment Booking System 
 
 ## 1. Facts
 - Students and staff share equipment such as laptops, cameras, projectors and specialist equipment.
@@ -64,13 +64,11 @@ Scenario: College Equipment Booking System (worked example)
 
 ## 8. Requirement Surgery
 **R1: "The system should be easy to use."**
-- Why weak: "easy" is subjective. It doesn't say easy for whom, for which task, or how to measure it.
-- Rewrite: A first-time student shall be able to book an available item in under 3 minutes without help.
+ A first-time student shall be able to book an available item in under 3 minutes without help.
 
 **R2: "The system should be secure."**
-- Why weak: it doesn't say what we are protecting, from whom, or how to check it.
-- Rewrite: Only signed-in college users shall be able to make bookings, and only equipment technicians shall be able to mark an item as returned.
+Only signed-in college users shall be able to make bookings, and only equipment technicians shall be able to mark an item as returned.
 
 ## 9. Reflection
 - I wanted to jump straight to a solutionbut listing the unknowns first showed how much we don't know yet, and would like who can book specialist equipment and what happens with late returns
--words like "easy" and "secure" sound fine but can't be tested until you ask wh
+
