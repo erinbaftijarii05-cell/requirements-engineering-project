@@ -1,5 +1,5 @@
 ## Week 4 — Requirements Modelling
-Scenario: College Equipment Booking System (worked example)
+Scenario: College Equipment Booking System 
 
 ![Use case diagram](use-case-diagram.png)
 
