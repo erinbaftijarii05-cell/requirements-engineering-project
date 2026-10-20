@@ -13,6 +13,16 @@
 * Student information must be kept safe.
 * The system needs to be easy for everyone to use.
 
+ ## 3. Stakeholders
+| Stakeholder                | What they need                         | What worries them               | Uses the system? |
+|----------------------------|----------------------------------------|---------------------------------|------------------|
+|Student                     | Students can  book easily              | Others seeing their appointment | Yes              |
+| Support staff              | Set their own free times               | Wasted time, no-shows           | Yes              |
+| Admin staff                | Correct booking records                | Records being wrong             | Maybe            |
+| College management         | See how busy services are              | Services being too busy         | Maybe            |
+| Data protection            | Student infomation  kept safe          | Info being leaked               | No               |
+| Services manager           | Booking numbers                        | Not enough staff                | Maybe            |
+
 
 
   
