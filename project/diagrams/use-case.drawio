@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="y401WV-AczUyi7kgFnk6">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Studnets" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="420" width="420" x="170" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Students Support Appointment System" vertex="1">
+          <mxGeometry height="30" width="210" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="200" x="200" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="200" x="200" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="200" x="200" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="200" x="200" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="200" x="200" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="200" x="200" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="View Services" vertex="1">
+          <mxGeometry height="30" width="90" x="255" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="View Free Times" vertex="1">
+          <mxGeometry height="30" width="100" x="250" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Book Appointment" vertex="1">
+          <mxGeometry height="30" width="100" x="255" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cancel appointment" vertex="1">
+          <mxGeometry height="30" width="110" x="245" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Change Appoitment" vertex="1">
+          <mxGeometry height="30" width="110" x="245" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="View My Bookings" vertex="1">
+          <mxGeometry height="30" width="100" x="245" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Wlb_8HbUE2bb5tgb_ZnJ-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Wlb_8HbUE2bb5tgb_ZnJ-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Wlb_8HbUE2bb5tgb_ZnJ-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Wlb_8HbUE2bb5tgb_ZnJ-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Wlb_8HbUE2bb5tgb_ZnJ-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Wlb_8HbUE2bb5tgb_ZnJ-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="140" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="140" x="430" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="140" x="430" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-38" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Support Staff" vertex="1">
+          <mxGeometry height="60" width="30" x="670" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Add Free Time" vertex="1">
+          <mxGeometry height="30" width="90" x="455" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="View Staff&amp;nbsp; Booking" vertex="1">
+          <mxGeometry height="30" width="110" x="445" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mark who do not show up" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Wlb_8HbUE2bb5tgb_ZnJ-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="310" as="sourcePoint" />
+            <mxPoint x="720" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-44" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Wlb_8HbUE2bb5tgb_ZnJ-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="310" as="sourcePoint" />
+            <mxPoint x="720" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wlb_8HbUE2bb5tgb_ZnJ-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="Wlb_8HbUE2bb5tgb_ZnJ-42" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="310" as="sourcePoint" />
+            <mxPoint x="720" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
