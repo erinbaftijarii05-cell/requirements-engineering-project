@@ -1,1 +1,5 @@
-
+![Screen 1](Equipment_01_Browse.png)
+![Screen 2](Equipment_02_Details.png)
+![Screen 3](Equipment_03_Request.png)
+![Screen 4](Equipment_04_Missing_date.png)
+![Screen 5](Equipment_05_Submitted.png)
