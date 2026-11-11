@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Screen 4 - Missing date</title>
+<style>
+body { font-family: Arial, sans-serif; background: #eef2f6; margin: 0; padding: 30px; color: #1b2b38; }
+.layout { display: flex; gap: 25px; align-items: flex-start; }
+.screen { background: white; border: 1px solid #5b6772; width: 900px; min-height: 420px; }
+.header { background: #163a5a; color: white; padding: 18px 20px; display: flex; justify-content: space-between; align-items: center; }
+.header b { font-size: 18px; }
+.header span { font-size: 12px; color: #dfe7ee; }
+.content { padding: 20px 30px 30px; }
+h1 { font-size: 26px; margin: 10px 0 6px; }
+.selected { color: #1a5f8a; font-weight: bold; margin: 0 0 20px; }
+.fields { display: flex; gap: 40px; }
+.field label { display: block; font-weight: bold; font-size: 14px; margin-bottom: 6px; }
+.input { border: 1px solid #7a8996; width: 320px; padding: 10px; color: #5f6b76; min-height: 18px; }
+.input.filled { color: #1b2b38; }
+.error { background: #fff1d6; border: 1px solid #d9a33a; color: #6b4300; font-weight: bold; padding: 9px; margin-top: 8px; width: 322px; }
+.buttons { text-align: right; margin-top: 30px; }
+.btn { display: inline-block; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-size: 14px; border: 1px solid #8796a3; background: #f1f4f7; color: #1b2b38; }
+.btn.primary { background: #127c80; border-color: #127c80; color: white; font-weight: bold; }
+.notes { width: 260px; }
+.note { padding: 10px 12px; font-size: 13px; margin-bottom: 15px; }
+.evidence { background: #e8f1f8; border: 1px solid #6d93b3; }
+.question { background: #fff4d6; border: 1px dashed #d4a52a; }
+.candidate { background: #fde8e8; border: 1px dashed #c25b5b; }
+</style>
+</head>
+<body>
+<div class="layout">
+  <div class="screen">
+    <div class="header"><b>College equipment • Student request</b><span>SCREEN 4 / 5</span></div>
+    <div class="content">
+      <h1>Request equipment</h1>
+      <p class="selected">Selected equipment: Laptop</p>
+      <div class="fields">
+        <div class="field"><label>Start date</label><div class="input filled">2026-11-03</div></div>
+        <div class="field"><label>End date</label><div class="input"></div>
+          <div class="error">Please enter an end date.</div></div>
+      </div>
+      <div class="buttons">
+        <a class="btn" href="03-request.html">Back</a>
+        <a class="btn primary" href="05-submitted.html">Submit request</a>
+      </div>
+    </div>
+  </div>
+  <div class="notes">
+    <div class="note evidence"><b>Evidence: EB03</b><br>(start and end dates)</div>
+    <div class="note candidate"><b>CANDIDATE: needs confirmation</b><br>This error message is a proposal, not an agreed rule.</div>
+    <div class="note question"><b>OPEN QUESTION</b><br>Candidate rule: must both dates be entered before submission?</div>
+  </div>
+</div>
+</body>
+</html>

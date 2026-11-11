@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Screen 1 - Browse equipment</title>
+<style>
+body { font-family: Arial, sans-serif; background: #eef2f6; margin: 0; padding: 30px; color: #1b2b38; }
+.layout { display: flex; gap: 25px; align-items: flex-start; }
+.screen { background: white; border: 1px solid #5b6772; width: 900px; min-height: 420px; }
+.header { background: #163a5a; color: white; padding: 18px 20px; display: flex; justify-content: space-between; align-items: center; }
+.header b { font-size: 18px; }
+.header span { font-size: 12px; color: #dfe7ee; }
+.content { padding: 20px 30px 30px; }
+h1 { font-size: 26px; margin: 10px 0 6px; }
+.sub { color: #5f6b76; margin: 0 0 20px; }
+.cards { display: flex; gap: 25px; }
+.card { background: #f5f8fa; border: 1px solid #b8c4ce; border-radius: 8px; padding: 18px; width: 220px; }
+.card h3 { margin: 12px 0; }
+.img { background: #e1e8ed; border: 1px solid #b8c4ce; color: #5f6b76; text-align: center; font-size: 13px; padding: 30px 0; }
+.btn { display: block; text-align: center; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-size: 14px; background: #127c80; color: white; font-weight: bold; }
+.notes { width: 260px; }
+.note { padding: 10px 12px; font-size: 13px; margin-bottom: 15px; }
+.evidence { background: #e8f1f8; border: 1px solid #6d93b3; }
+.question { background: #fff4d6; border: 1px dashed #d4a52a; }
+</style>
+</head>
+<body>
+<div class="layout">
+  <div class="screen">
+    <div class="header"><b>College equipment • Student request</b><span>SCREEN 1 / 5</span></div>
+    <div class="content">
+      <h1>Browse equipment</h1>
+      <p class="sub">Choose an item to explore before requesting it.</p>
+      <div class="cards">
+        <div class="card">
+          <div class="img">[item image / icon]</div>
+          <h3>Laptop</h3>
+          <a class="btn" href="02-details.html">View item</a>
+        </div>
+        <div class="card">
+          <div class="img">[item image / icon]</div>
+          <h3>Camera</h3>
+          <a class="btn" href="02-details.html">View item</a>
+        </div>
+        <div class="card">
+          <div class="img">[item image / icon]</div>
+          <h3>Projector</h3>
+          <a class="btn" href="02-details.html">View item</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="notes">
+    <div class="note evidence"><b>Evidence: EB01</b><br>Students can view available equipment.</div>
+    <div class="note question"><b>OPEN QUESTION</b><br>Does "available" mean available now, or available for the dates the student picks? Not defined in the case.</div>
+  </div>
+</div>
+</body>
+</html>

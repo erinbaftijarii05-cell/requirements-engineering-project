@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Screen 3 - Request equipment</title>
+<style>
+body { font-family: Arial, sans-serif; background: #eef2f6; margin: 0; padding: 30px; color: #1b2b38; }
+.layout { display: flex; gap: 25px; align-items: flex-start; }
+.screen { background: white; border: 1px solid #5b6772; width: 900px; min-height: 420px; }
+.header { background: #163a5a; color: white; padding: 18px 20px; display: flex; justify-content: space-between; align-items: center; }
+.header b { font-size: 18px; }
+.header span { font-size: 12px; color: #dfe7ee; }
+.content { padding: 20px 30px 30px; }
+h1 { font-size: 26px; margin: 10px 0 6px; }
+.selected { color: #1a5f8a; font-weight: bold; margin: 0 0 20px; }
+.fields { display: flex; gap: 40px; }
+.field label { display: block; font-weight: bold; font-size: 14px; margin-bottom: 6px; }
+.input { border: 1px solid #7a8996; width: 320px; padding: 10px; color: #5f6b76; min-height: 18px; }
+.info { background: #f1f4f7; border: 1px solid #b8c4ce; color: #5f6b76; padding: 12px; margin-top: 25px; }
+.buttons { text-align: right; margin-top: 30px; }
+.btn { display: inline-block; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-size: 14px; border: 1px solid #8796a3; background: #f1f4f7; color: #1b2b38; }
+.btn.primary { background: #127c80; border-color: #127c80; color: white; font-weight: bold; }
+.notes { width: 260px; }
+.note { padding: 10px 12px; font-size: 13px; margin-bottom: 15px; }
+.evidence { background: #e8f1f8; border: 1px solid #6d93b3; }
+</style>
+</head>
+<body>
+<div class="layout">
+  <div class="screen">
+    <div class="header"><b>College equipment • Student request</b><span>SCREEN 3 / 5</span></div>
+    <div class="content">
+      <h1>Request equipment</h1>
+      <p class="selected">Selected equipment: Laptop</p>
+      <div class="fields">
+        <div class="field"><label>Start date</label><div class="input">[Select start date]</div></div>
+        <div class="field"><label>End date</label><div class="input">[Select end date]</div></div>
+      </div>
+      <div class="info">A request will be reviewed by staff before a decision is made.</div>
+      <div class="buttons">
+        <a class="btn" href="02-details.html">Back</a>
+        <a class="btn primary" href="04-missing-date.html">Submit request</a>
+      </div>
+    </div>
+  </div>
+  <div class="notes">
+    <div class="note evidence"><b>Evidence: EB03</b><br>A booking records a start date and end date.</div>
+    <div class="note evidence"><b>Evidence: EB04</b><br>Staff review requests and decide to approve or reject.</div>
+  </div>
+</div>
+</body>
+</html>
