@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Screen 5 - Booking done</title>
+<style>
+body { font-family: Arial, sans-serif; background: #eef2f6; margin: 0; padding: 30px; color: #1b2b38; }
+.layout { display: flex; gap: 25px; align-items: flex-start; }
+.screen { background: white; border: 1px solid #5b6772; width: 900px; min-height: 420px; }
+.header { background: #163a5a; color: white; padding: 18px 20px; display: flex; justify-content: space-between; align-items: center; }
+.header b { font-size: 18px; }
+.header span { font-size: 12px; color: #dfe7ee; }
+.content { padding: 20px 30px 30px; }
+h1 { font-size: 26px; margin: 10px 0 6px; }
+.done { background: #e9f6f4; border: 1px solid #6fb3a8; border-radius: 8px; padding: 20px; margin-bottom: 25px; }
+.done .main { color: #0d5a52; font-size: 19px; font-weight: bold; margin: 0 0 10px; }
+.done .sub { color: #5f6b76; margin: 0; }
+.btn { display: inline-block; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-size: 14px; border: 1px solid #8796a3; background: #f1f4f7; color: #1b2b38; margin-right: 8px; }
+.notes { width: 260px; flex-shrink: 0; }
+.note { padding: 10px 12px; font-size: 13px; margin-bottom: 15px; }
+.evidence { background: #e8f1f8; border: 1px solid #6d93b3; }
+.question { background: #fff4d6; border: 1px dashed #d4a52a; }
+.candidate { background: #fde8e8; border: 1px dashed #c25b5b; }
+</style>
+</head>
+<body>
+<div class="layout">
+  <div class="screen">
+    <div class="header"><b>Student Support Appointments</b><span>SCREEN 5 / 5</span></div>
+    <div class="content">
+      <h1>Booking saved</h1>
+      <div class="done">
+        <p class="main">Your appointment with Academic Support is saved for Tue 11:00.</p>
+        <p class="sub">You can see it in My Bookings.</p>
+      </div>
+      <a class="btn" href="screen1-services.html">Back to services</a>
+      <a class="btn" href="#">My Bookings</a>
+    </div>
+  </div>
+  <div class="notes">
+    <div class="note evidence"><b>FR-3, FR-7</b><br>Booking saved. Student can see their bookings.</div>
+    <div class="note candidate"><b>ASSUMPTION</b><br>My activity diagram says the booking is confirmed straight away. Not sure if staff need to approve it first.</div>
+    <div class="note question"><b>OPEN QUESTION</b><br>Does the student get a reminder before the appointment?</div>
+  </div>
+</div>
+</body>
+</html>

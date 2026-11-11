@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Screen 4 - Time no longer free</title>
+<style>
+body { font-family: Arial, sans-serif; background: #eef2f6; margin: 0; padding: 30px; color: #1b2b38; }
+.layout { display: flex; gap: 25px; align-items: flex-start; }
+.screen { background: white; border: 1px solid #5b6772; width: 900px; min-height: 420px; }
+.header { background: #163a5a; color: white; padding: 18px 20px; display: flex; justify-content: space-between; align-items: center; }
+.header b { font-size: 18px; }
+.header span { font-size: 12px; color: #dfe7ee; }
+.content { padding: 20px 30px 30px; }
+h1 { font-size: 26px; margin: 10px 0 6px; }
+.error { background: #fff1d6; border: 1px solid #d9a33a; color: #6b4300; font-weight: bold; padding: 12px; margin-bottom: 20px; }
+.box { border: 1px solid #b8c4ce; background: #f5f8fa; padding: 14px; margin-bottom: 20px; }
+.box p { margin: 4px 0; }
+.btn { display: inline-block; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-size: 14px; background: #127c80; color: white; font-weight: bold; }
+.notes { width: 260px; flex-shrink: 0; }
+.note { padding: 10px 12px; font-size: 13px; margin-bottom: 15px; }
+.evidence { background: #e8f1f8; border: 1px solid #6d93b3; }
+.question { background: #fff4d6; border: 1px dashed #d4a52a; }
+.candidate { background: #fde8e8; border: 1px dashed #c25b5b; }
+</style>
+</head>
+<body>
+<div class="layout">
+  <div class="screen">
+    <div class="header"><b>Student Support Appointments</b><span>SCREEN 4 / 5</span></div>
+    <div class="content">
+      <h1>Book appointment</h1>
+      <div class="error">Sorry, Tue 11:00 was just taken by someone else. Please pick another time.</div>
+      <div class="box">
+        <p><b>Service:</b> Academic Support</p>
+        <p><b>Time:</b> Tue 11:00 (no longer free)</p>
+      </div>
+      <a class="btn" href="screen2-times.html">Pick another time</a>
+    </div>
+  </div>
+  <div class="notes">
+    <div class="note evidence"><b>FR-4</b><br>The system shall stop double bookings.</div>
+    <div class="note candidate"><b>ASSUMPTION</b><br>FR-4 is my assumption. The scenario does not say double booking is a problem.</div>
+    <div class="note question"><b>WHEN THIS SHOWS</b><br>Instead of Screen 5, if the time was taken while booking. Matches narrative step 4 and the activity diagram "Is there free time? no".</div>
+  </div>
+</div>
+</body>
+</html>

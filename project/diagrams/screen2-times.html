@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Screen 2 - View Free Times</title>
+<style>
+body { font-family: Arial, sans-serif; background: #eef2f6; margin: 0; padding: 30px; color: #1b2b38; }
+.layout { display: flex; gap: 25px; align-items: flex-start; }
+.screen { background: white; border: 1px solid #5b6772; width: 900px; min-height: 420px; }
+.header { background: #163a5a; color: white; padding: 18px 20px; display: flex; justify-content: space-between; align-items: center; }
+.header b { font-size: 18px; }
+.header span { font-size: 12px; color: #dfe7ee; }
+.content { padding: 20px 30px 30px; }
+h1 { font-size: 26px; margin: 10px 0 6px; }
+.sub { color: #5f6b76; margin: 0 0 20px; }
+.selected { color: #1a5f8a; font-weight: bold; margin: 0 0 6px; }
+.times { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
+.slot { border: 1px solid #7a8996; padding: 10px 16px; text-decoration: none; color: #1b2b38; border-radius: 6px; }
+.btn { display: inline-block; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-size: 14px; border: 1px solid #8796a3; background: #f1f4f7; color: #1b2b38; }
+.notes { width: 260px; flex-shrink: 0; }
+.note { padding: 10px 12px; font-size: 13px; margin-bottom: 15px; }
+.evidence { background: #e8f1f8; border: 1px solid #6d93b3; }
+.question { background: #fff4d6; border: 1px dashed #d4a52a; }
+</style>
+</head>
+<body>
+<div class="layout">
+  <div class="screen">
+    <div class="header"><b>Student Support Appointments</b><span>SCREEN 2 / 5</span></div>
+    <div class="content">
+      <h1>Free times</h1>
+      <p class="selected">Service: Academic Support</p>
+      <p class="sub">Pick a time that suits you.</p>
+      <div class="times">
+        <a class="slot" href="screen3-book.html">Mon 10:00</a>
+        <a class="slot" href="screen3-book.html">Mon 14:00</a>
+        <a class="slot" href="screen3-book.html">Tue 11:00</a>
+        <a class="slot" href="screen3-book.html">Wed 09:30</a>
+        <a class="slot" href="screen3-book.html">Thu 15:00</a>
+      </div>
+      <a class="btn" href="screen1-services.html">Back</a>
+    </div>
+  </div>
+  <div class="notes">
+    <div class="note evidence"><b>FR-2</b><br>The system shall show free times.</div>
+    <div class="note evidence"><b>FR-9</b><br>These are the times staff added.</div>
+    <div class="note question"><b>OPEN QUESTION</b><br>How long is each appointment? Can a student see times for more than one week?</div>
+  </div>
+</div>
+</body>
+</html>
