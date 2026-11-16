@@ -25,3 +25,17 @@ These are just my ideas so staff need to say ok
 | Keyboard      | You can make a request without a mouse                                | Try it with just the keyboard                      |
 | Who sees what | You only see your own requests                                        | Log in as two people and try to open the other one |
 
+## D. Must have--Should have--Could have--Would have
+
+| Thing                                  | Must or not | Why           |
+|----------------------------------------|-------------|---------------|
+| Student sends a request                | Must        | FR01          |
+| Staff say yes or no                    | Must        | FR04 and FR06 |
+| Reminders                              | Not sure    | Need to ask   |
+| Stop two people booking the same thing | Not sure    | Need to ask   |
+
+Bookings cannot just be approved straight away because staff have to decide
+
+
+
+
