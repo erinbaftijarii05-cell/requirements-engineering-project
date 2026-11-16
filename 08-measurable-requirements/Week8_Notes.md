@@ -14,3 +14,14 @@ On my last wireframe screen and the student needs to see that their request was 
 | NFR-C01 | 50 users at once 95 out of 100 requests done in 2 secs | NFR  | Not agreed | My idea       | Needs to be quick | Load test |
 | NFR-C02 | Student can request with keybaord only                 | NFR  | Not agreed | My idea       | Everyone can book | No mouse  |
 
+
+## C. Quality requirements
+
+These are just my ideas so staff need to say ok
+
+| What          | Idea                                                                  | How to test                                        |
+|---------------|-----------------------------------------------------------------------|----------------------------------------------------|
+| Speed         | 50 people on at once and 95 out of 100 requests go through in 2 secs  | Get lots of people to use it at once               |
+| Keyboard      | You can make a request without a mouse                                | Try it with just the keyboard                      |
+| Who sees what | You only see your own requests                                        | Log in as two people and try to open the other one |
+
