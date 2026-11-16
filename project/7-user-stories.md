@@ -8,3 +8,7 @@ these come from requirements already in my catalogue
 | US02 / FR-5 | As a student I want to cancel my booking so someone else can use the slot   | its gone from My Bookings and  the time shows as free again for other students                          |
 | US03 / FR-9 | As support staff I want to add my free times so students can book them      | the new time shows in the free times list and  a time I didnt add doesnt show                           |
 | US04 / FR-1 | As a student I want to see all the services so I know which one to pick     | all services show in a list and each one says what it helps withh                                       |
+
+# Open question
+
+
