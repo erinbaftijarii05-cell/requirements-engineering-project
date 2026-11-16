@@ -12,3 +12,6 @@ these come from requirements already in my catalogue
 # Open question
 
 
+still need to find out how close to the appointment someone can cancel. ask support staff (Q02)
+
+
