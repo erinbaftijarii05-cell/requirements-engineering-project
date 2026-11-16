@@ -25,3 +25,10 @@ these are just examples: waterfall plans it all first then builds  than get feed
 | FR05    | organiser edits details     | F06     | new details show      |
 | NFR-C01 | works with just a keyboard  | my idea | try with no mouse     |
 
+## 4. User stories
+
+as a resident i want to filter by topic so i find stuff i like (FR01)
+- woodwork shows only woodwork
+- date shows only that day
+
+
