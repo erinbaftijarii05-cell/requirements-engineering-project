@@ -16,19 +16,40 @@ these are just examples: waterfall plans it all first then builds  than get feed
 
 ## 3. Requirements
 
-| ID      | Requirement                 | Source  | Check                 |
-|---------|-----------------------------|---------|-----------------------|
-| FR01    | filter by topic and date    | F01     | only that topic shows |
-| FR02    | see workshop details        | F02     | all 4 show            | 
-| FR03    | ask for one place           | F03 F04 | request saved         |
-| FR04    | organiser says yes or no    | F05     | status changes        |
-| FR05    | organiser edits details     | F06     | new details show      |
-| NFR-C01 | works with just a keyboard  | my idea | try with no mouse     |
+| ID      | Requirement                 | Source      | Check                 |
+|---------|-----------------------------|-------------|-----------------------|
+| FR01    | filter by topic and date    | F01         | only that topic shows |
+| FR02    | see workshop details        | F02         | all 4 show            | 
+| FR03    | ask for one place           | F03 and F04 | request saved         |
+| FR04    | organiser says yes or no    | F05         | status changes        |
+| FR05    | organiser edits details     | F06         | new details show      |
+| NFR-C01 | works with just a keyboard  | my idea     | try with no mouse     |
 
 ## 4. User stories
 
-as a resident i want to filter by topic so i find stuff i like (FR01)
+as a resident i want to filter by topic so i find stuff i like FR01
 - woodwork shows only woodwork
 - date shows only that day
 
+as a resident i want to ask for a place so i can go FR03
+- says sent for review not that im in
+- no email = cant send
+
+as an organiser i want to say yes or no so i pick who gets in (FR04)
+- yes = approved
+- no = rejected
+
+acceptance criteria is for one story. definition of done is for all of them
+
+## 5. Backlog
+
+| Order | Item               | Status         |Why             |
+|-------|--------------------|----------------|----------------|
+| 1     | filter             | supported      | find one first |
+| 2     | ask for place      | supported      | main thing     |
+| 3     | yes or no          | supported      | needs answer   |
+| 4     | edit details       | supported      | keep it right  |
+| 5     | group bookings     | candidate      | not agreed     |
+
+filter and ask first cause nothing works without them. product owner cant agree group bookings and centre manager decides
 
