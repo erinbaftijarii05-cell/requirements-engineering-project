@@ -83,7 +83,7 @@ questions id ask
 * how long students wait for booking
 * how many students there are using and booking appoitmenets
 
-these were my first unknowns, theyre all in the table above now as Q7 to Q10
+these were my first unknowns, theyre all in the table above now as Q7 to Q10.
 
 ## 9. What I changed and why
 * my assumptions and unknowns were in 2 different places so i put them in one table with IDs
