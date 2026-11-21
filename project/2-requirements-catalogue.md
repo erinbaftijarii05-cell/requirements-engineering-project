@@ -37,14 +37,14 @@
 ## 4. Review
 | What I wrote first    | What was wrong       | Changed to     |
 |-----------------------|----------------------|----------------|
-| Easy to use           | No way to check it   | NFR-06         |
-| Secure                | Didn't say how       | NFR-01  NFR-04 |
-| Staff manage bookings | Didn't say what      | FR-08 to FR-10 |
+| Easy to use           | No way to check it   | NFR-6         |
+| Secure                | Didn't say how       | NFR-1  NFR-4 |
+| Staff manage bookings | Didn't say what      | FR-8 to FR-10 |
 
 ## 5. Still Need to Find Out
-* How late can a student cancel -FR-05
-* What do staff do if a student does not  turn up -FR-10
-* Is 3 minutes enough time to book -NNFR-06
+* How late can a student cancel -FR-5
+* What do staff do if a student does not  turn up -FR-1-
+* Is 3 minutes enough time to book -NFR-06
 
 ## 6. What I changed
 * the ones i made up myself that arent in the brief are now marked candidate so i know to check them with the stakeholders
