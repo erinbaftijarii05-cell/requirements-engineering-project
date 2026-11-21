@@ -18,6 +18,6 @@
 | easy to use cant be tested    | made it NFR-6          | done     |
 | some stuff was my own idea    | marked it candidate    | done     |
 | screen 1 was wrong            | fixed it               | done     |
-| how late can you cancel       | still dont know, Q2    | not done |
+
 
 double booking and the 3 mins are my ideas so theyd need checking in a real project
