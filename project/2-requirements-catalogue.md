@@ -43,7 +43,7 @@
 
 ## 5. Still Need to Find Out
 * How late can a student cancel -FR-5
-* What do staff do if a student does not  turn up -FR-1-
+* What do staff do if a student does not  turn up -FR-10-
 * Is 3 minutes enough time to book -NFR-06
 
 ## 6. What I changed
