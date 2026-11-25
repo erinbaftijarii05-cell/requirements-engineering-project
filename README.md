@@ -1,5 +1,5 @@
 # Requirements Engineering Project
-my individual requirements engineering project
+ requirements engineering project
 
 ## T-Number
 T00270078
