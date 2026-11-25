@@ -10,3 +10,9 @@
 
 
 there are more commits on my github, you can click any of them to see what i changed
+
+ ## lab 1-6- Was Really a learning curve towards my project
+It taught me the base line of the project , how to do it and how to walk through i
+
+
+ 
