@@ -9,15 +9,15 @@
 | Book without emailing          | FR-3             | the narrative, activity diagram and screen 5 | screen 5 says booking saved   |
 | No two students in one slot    | FR-4 (candidate) | the activity diagram and screen 4            | not checked, its just my idea |
 
-
-
 ## 8.2 Final checking
 
-| What I found                  | What I did             | Status   |
-|-------------------------------|------------------------|----------|
-| easy to use cant be tested    | made it NFR-6          | done     |
-| some stuff was my own idea    | marked it candidate    | done     |
-| screen 1 was wrong            | fixed it               | done     |
+| What I found                         | What I did          | Status   |
+|--------------------------------------|---------------------|----------|
+| easy to use cant be tested           | made it NFR-6       | done     |
+| some stuff was my own idea           | marked it candidate | done     |
+| screen 1 was wrong                   | fixed it            | done     |
+| dont know how long appointments are  | Q5                  | not done |
+| dont know who picks the staff member | Q11                 | not done |
+| dont know if bookings need approval  | A4 and Q12          | not done |
 
-
-double booking and the 3 mins are my ideas so theyd need checking in a real project
+the biggest thing i improved was splitting my own ideas from what the scenario says. before that it looked like the college asked for stuff it never did. the things that still need confirming are double booking, approval, appointment length and who picks the staff, and these would change my class diagram and priorities if they came back different
