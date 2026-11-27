@@ -44,29 +44,29 @@ The system should help the college to
 Out of scope:
 - Support staff writing notes about the meeting – the system is only for booking
 - Services manager getting reports – not needed to book an appointment
-- Admin staff booking for students – students book for themselves
+- Admin staff booking for students – students book for themselves (not confirmed, see Q1)
 
 ## 6. Assumptions, questions and candidates
 
-| ID | Type | Description | Status | Who to ask |
-|---|---|---|---|---|
-| A1 | Assumption | All students have a college login | Not confirmed | College IT |
-| A2 | Assumption | 1 student and 1 staff per appointment | Not confirmed | Support staff |
-| A3 | Assumption | Each service sets its own appointment types | Not confirmed | Support staff |
-| A4 | Assumption | Bookings dont need approval | Not confirmed | Services manager |
-| Q1 | Question | Who can book? | Open | Services manager |
-| Q2 | Question | How late can you cancel? | Open | Support staff |
-| Q3 | Question | What happens if a student doesnt show up? | Open | Support staff |
-| Q4 | Question | Who can see the appointment details? | Open | Data protection |
-| Q5 | Question | How long is an appointment? | Open | Support staff |
-| Q6 | Question | What does a student fill in when booking? | Open | Support staff |
-| Q7 | Question | What are the other services? | Open | Services manager |
-| Q8 | Question | Is there a limit on bookings per student? | Open | Support staff |
-| Q9 | Question | Does it have to work with a system the college already has? | Open | College management |
-| Q10 | Question | How long do students wait now and how many book? | Open | Services manager |
-| Q11 | Question | Who picks which staff member gets the booking? | Open | Support staff |
-| Q12 | Question | What statuses can a booking have, is approved one? | Open | Services manager |
-| CR1 | Candidate | Reminder before the appointment | Not confirmed | Students and support staff |
+| ID  | Type       | Description                                                                                                        | Status        | Who to ask                 |
+|-----|------------|--------------------------------------------------------------------------------------------------------------------|---------------|----------------------------|
+| A1  | Assumption | All students have a college login                                                                                  | Not confirmed | College IT                 |
+| A2  | Assumption | 1 student and 1 staff per appointment                                                                              | Not confirmed | Support staff              |
+| A3  | Assumption | Each service sets its own appointment types                                                                        | Not confirmed | Support staff              |
+| A4  | Assumption | Bookings dont need approval                                                                                        | Not confirmed | Services manager           |
+| Q1  | Question   | Can only registered students book, or can staff and admin book for a student too?                                  | Open          | Services manager           |
+| Q2  | Question   | How many hours before the appointment can a student still cancel or change it?                                     | Open          | Support staff              |
+| Q3  | Question   | When a student doesnt turn up should the system just mark it missed, tell staff, or stop them booking for a while? | Open          | Support staff              |
+| Q4  | Question   | Who can see the appointment details?                                                                               | Open          | Data protection            |
+| Q5  | Question   | How long is an appointment?                                                                                        | Open          | Support staff              |
+| Q6  | Question   | What does a student fill in when booking?                                                                          | Open          | Support staff              |
+| Q7  | Question   | What are the other services?                                                                                       | Open          | Services manager           |
+| Q8  | Question   | Is there a limit on bookings per student?                                                                          | Open          | Support staff              |
+| Q9  | Question   | Does it have to work with a system the college already has?                                                        | Open          | College management         |
+| Q10 | Question   | How long do students wait now and how many book?                                                                   | Open          | Services manager           |
+| Q11 | Question   | Who picks which staff member gets the booking?                                                                     | Open          | Support staff              |
+| Q12 | Question   | What statuses can a booking have, is approved one?                                                                 | Open          | Services manager           |
+| CR1 | Candidate  | Reminder before the appointment                                                                                    | Not confirmed | Students and support staff |
 
 ## 7. How id find out more
 
@@ -90,4 +90,4 @@ these were my first unknowns, theyre all in the table above now as Q7 to Q10.
 * when i was doing the screens and diagrams i kept finding stuff i didnt know so theres a lot more questions now
 * reminders are in as a candidate. the scenario talks about them but never says they actually want them
 * section 7 is new and  i never said how id get the answers before
-
+* after the lecturer feedback i made Q1 to Q3 more specific so a stakeholder could give a clear answer
