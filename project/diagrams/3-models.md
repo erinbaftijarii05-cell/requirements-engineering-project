@@ -1,7 +1,7 @@
 # 3. Requirements Models
 
 ## 3.1 Use Case Diagram
-![Use Case](use-case.png)
+![Use Case](use-case-v2.png)
 
 What students and staff can do.
 
@@ -25,14 +25,14 @@ the red ones are candidate, theyre not in the scenario
 If the time is gone at step 4, go back to step 2.
 
 ## 3.3 Activity Diagram
-![Activity](activity.png)
+![Activity](activity-v2.png)
 
 The steps to book. If the time is taken, pick another one.
 
 still free? is red cause its candidate (FR-4)
 
 ## 3.4 UML Class Diagram
-![UML Class Diagram](<uml-class-diagram (1).png>)
+![UML Class Diagram](uml-class-diagram-v2.png)
 
 | Link               | Numbers   | Why                                 |
 |--------------------|-----------|-------------------------------------|
