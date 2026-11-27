@@ -5,6 +5,8 @@
 
 What students and staff can do.
 
+View My Bookings, View Staff Booking, Add Free Time and Mark who do not show up are in red cause theyre candidate, FR-7 to FR-10 arent in the scenario
+
 ## 3.2 Use Case Narrative - Book Appointment
 |        |               |
 |--------|---------------|
@@ -27,17 +29,19 @@ If the time is gone at step 4, go back to step 2.
 
 The steps to book. If the time is taken, pick another one.
 
+the Still free? check is in red cause its FR-4 which is candidate
+
 ## 3.4 UML Class Diagram
 ![UML Class Diagram](<uml-class-diagram (1).png>)
 
 | Link               | Numbers   | Why                                 |
 |--------------------|-----------|-------------------------------------|
 | Student - Booking  | 1 to 0..* | A student can have lots of bookings |
-| Booking - TimeSlot | 0..1 to 1 | A time can only be booked once      |
-| Staff - TimeSlot   | 1 to 0..* | Staff add their own times           |
-| Service - Staff    | 1 to 1..* | Each service has staff (my guess)   |
+| Booking - TimeSlot | 0..1 to 1 | A time can only be booked once (candidate FR-4) |
+| Staff - TimeSlot   | 1 to 0..* | Staff add their own times (candidate FR-9) |
+| Service - Staff    | 1 to 1..* | Each service has staff (candidate, my guess) |
 
-end time, status and attend in my class diagram are my own ideas. theyre not in the brief so i need to check them with the stakeholders
+end time, status, attend and description in my class diagram are my own ideas and theyre in red. theyre not in the brief so i need to check them with the stakeholders
 
 ## 3.5 Model consistency check
 Most of it lines up. Every main use case has its own FR, like Book Appointment is FR3 and Add Free Time is FR9. The activity diagram and the narrative go through the same steps and both send you back if the time is gone which is FR4
