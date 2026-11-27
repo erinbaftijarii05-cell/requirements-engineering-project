@@ -49,3 +49,4 @@
 ## 6. What I changed
 * the ones i made up myself that arent in the brief are now marked candidate so i know to check them with the stakeholders
 * the 3 minute thing is my own guess so thats a candidate too  and the test now says how many students need to pass
+* after the lecturer feedback i rewrote all the requirements so they start with the system shall and say who its for and i made FR-9 and FR-10 candidate cause the scenario only asks about them
