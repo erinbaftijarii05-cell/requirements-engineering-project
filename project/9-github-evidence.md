@@ -7,6 +7,7 @@
 | 21 Nov - 1-problem-stakeholders    | put all my unknowns in one table, added Q5 to Q12   | the screens and diagrams kept showing me stuff i didnt know        |
 | 21 Nov - 2-requirements-catalogue  | put candidate on the requirements i came up with    | they werent in the brief so they need to be confirmed              |
 | 21 Nov - screen 1 and 4            | fixed screen 1 and put candidate on screen 4        | screen 1 was screen 3 by mistake and screen 4 didnt match          |
+| 27 Nov - requirements, diagrams and screens | redid the requirements and made my own stuff red | got told the requirements were too vague and my own stuff wasnt marked |
 
 
 there are more commits on my github, you can click any of them to see what i changed
@@ -15,6 +16,3 @@ there are more commits on my github, you can click any of them to see what i cha
 the labs helped a lot. i did each lab on the college equipment case first then used the same idea on my project, 
 like diagrams, prototype, user stories and traceability.
 i lost my old account so i redid labs 1 to 6, which helped me understand them better. theyre all in my github
-
-
- 
