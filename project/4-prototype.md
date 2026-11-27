@@ -9,23 +9,23 @@ What I want to find out: If students know which service to pick, what details th
 ## 4.2 Prototype screens
 
 ### Screen 1 - View Services
-![Screen 1](diagrams/screen1-services.png)
+![Screen 1](diagrams/screen1-services-v2.png)
 Student picks which support service they need. FR-1
 
 ### Screen 2 - View Free Times
-![Screen 2](diagrams/screen2-times.png)
+![Screen 2](diagrams/screen2-times-v2.png)
 Student sees free times for that service. FR-2, FR-9
 
 ### Screen 3 - Book Appointment
-![Screen 3](diagrams/screen3-book.png)
+![Screen 3](diagrams/screen3-book-v2.png)
 Student checks the service and time and books it. FR-3
 
 ### Screen 4 - Time no longer free
-![Screen 4](diagrams/screen4-taken.png)
+![Screen 4](diagrams/screen4-taken-v2.png)
 If someone else took the time, the student is sent back to pick another. FR-4 (candidate)
 
 ### Screen 5 - Booking done
-![Screen 5](diagrams/screen5-done.png)
+![Screen 5](diagrams/screen5-done-v2.png)
 Tells the student the booking is saved. FR-3, FR-7. Not sure yet if staff need to approve it
 
 the service descriptions and times on the screens are made up examples, theyre not in the brief. in a real project id check them with the stakeholders
@@ -45,3 +45,4 @@ Self-review. I went through the screens myself as a student booking an appointme
 * screen 1 was wrong, it was a copy of screen 3 so it never showed the services. made a proper one with the services list
 * screen 4 said assumption for FR-4 but its candidate everywhere else now so i changed it to match
 * added the question numbers to the table so you can see which ones in section 1 they link to
+* after  feedback from the lecture  i marked everything on the screens thats not in the scenario as candidate in red and updated the notes to the new requirement wording
