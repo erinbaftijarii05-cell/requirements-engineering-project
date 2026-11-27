@@ -19,5 +19,7 @@
 | dont know how long appointments are  | Q5                  | not done |
 | dont know who picks the staff member | Q11                 | not done |
 | dont know if bookings need approval  | A4 and Q12          | not done |
+| requirements were too vague | rewrote them all with the system shall and who its for | done |
+| new stuff wasnt marked on the diagrams or screens | made it red and added a key | done |
 
-the biggest thing i improved was splitting my own ideas from what the scenario says. before that it looked like the college asked for stuff it never did. the things that still need confirming are double booking, approval, appointment length and who picks the staff, and these would change my class diagram and priorities if they came back different
+i marked my own ideas as candidate. still dont know about double booking, approval, appointment length and who picks the staff
