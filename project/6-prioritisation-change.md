@@ -18,5 +18,6 @@ MoSCoW: Must means the system fails without it, Should matters but has a workaro
 | Change request and date                                  | Affected IDs                                 | What changed and why                                                   |
 |----------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------|
 | 25 Nov - i was told in class to keep track of my changes | FR-4, FR-7, FR-8, BR-01, NFR-3, NFR-4, NFR-6 | put candidate on my own requirements, diagram bits and screens, added Q5 to Q12 |
+| 27 Nov - got feedback that requirements were too vague and new stuff wasnt marked | FR-1 to FR-10, BR-01, NFR-1 to NFR-6, Q1 to Q3 | redid all the requirements with the system shall, made q1 to q3 clearer, made FR-9 and FR-10 candidate and made my own stuff red on the diagrams and screens |
 
 if double booking is allowed FR-4 wont be a Must and the class diagram would change. my changes are all in my github commits
